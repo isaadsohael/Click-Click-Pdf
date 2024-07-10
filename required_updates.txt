@@ -1,0 +1,11 @@
+- use vol number from folder name
+- create a help/instruction button/page/menu
+- additional instruction page at start (show at startup)
+- starting volume e number likhle it will go like: number ++ --> ei bishoyta question mark diye dekhano. just show kora functionality ta
+
+
+ToDo: chapter vol can contain anything. sort using number inside.
+ToDo: vol folder contains direct images
+
+
+
